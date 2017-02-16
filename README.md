@@ -4,7 +4,7 @@ HelpMyUsers allows web applications to enhance customer engagement using in-app 
 # Guided Tours
 HelpMyUsers Guided Tours are perfect for new users or walk in users through complicated processes. If users visit the web application for the first time, they do not know where to start. With the help of our Guided Tours, you can walk users to most important features step by step. And this feature will help to decrease customer service calls by up to 80%. 
 
-# Messsages
+# Messages
 HelpMyUsers Messages will allow users to message inside your web application. If you just have released new feature in your application, you need to retrieve usage. With the help of HelpMyUsers you can promote this new feature with Messages and it will be perfect for custom offers. 
 
 # Surveys
